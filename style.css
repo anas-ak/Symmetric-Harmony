@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Saira+Condensed");
+body {
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Saira Condensed', sans-serif;
+  background: black;
+}
+
+#note {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 0.5em;
+  text-align: center;
+  width: 300px;
+}
+/*# sourceMappingURL=style.css.map */
